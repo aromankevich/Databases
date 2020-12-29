@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iS8OVIdQyYx2lSn06vlnho8xrM4DZNMcwhEDJXpmONZ67lIGPMhjSGvzwrOUt6EYzGth3UbziPcdkBJA3roa8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maxde\\source\\repos\\BDR\\BDR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxde\\.nuget\\packages\\npgsql\\5.0.1.1\\npgsql.5.0.1.1.nupkg.sha512",
+    "C:\\Users\\maxde\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

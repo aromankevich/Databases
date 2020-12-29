@@ -1,0 +1,15 @@
+C:\Users\maxde\source\repos\BDR\bin\Debug\netcoreapp3.1\BDR.exe
+C:\Users\maxde\source\repos\BDR\bin\Debug\netcoreapp3.1\BDR.deps.json
+C:\Users\maxde\source\repos\BDR\bin\Debug\netcoreapp3.1\BDR.runtimeconfig.json
+C:\Users\maxde\source\repos\BDR\bin\Debug\netcoreapp3.1\BDR.runtimeconfig.dev.json
+C:\Users\maxde\source\repos\BDR\bin\Debug\netcoreapp3.1\BDR.dll
+C:\Users\maxde\source\repos\BDR\bin\Debug\netcoreapp3.1\BDR.pdb
+C:\Users\maxde\source\repos\BDR\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\maxde\source\repos\BDR\obj\Debug\netcoreapp3.1\BDR.csprojAssemblyReference.cache
+C:\Users\maxde\source\repos\BDR\obj\Debug\netcoreapp3.1\BDR.AssemblyInfoInputs.cache
+C:\Users\maxde\source\repos\BDR\obj\Debug\netcoreapp3.1\BDR.AssemblyInfo.cs
+C:\Users\maxde\source\repos\BDR\obj\Debug\netcoreapp3.1\BDR.csproj.CoreCompileInputs.cache
+C:\Users\maxde\source\repos\BDR\obj\Debug\netcoreapp3.1\BDR.csproj.CopyComplete
+C:\Users\maxde\source\repos\BDR\obj\Debug\netcoreapp3.1\BDR.dll
+C:\Users\maxde\source\repos\BDR\obj\Debug\netcoreapp3.1\BDR.pdb
+C:\Users\maxde\source\repos\BDR\obj\Debug\netcoreapp3.1\BDR.genruntimeconfig.cache
